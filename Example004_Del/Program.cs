@@ -1,4 +1,6 @@
-﻿double numberA=12;
-double numberB=5;
+﻿int numberA=new Random().Next(1,10); // 1,2,3,...9
+Console.WriteLine(numberA);
+int numberB=new Random().Next(1,10);
+Console.WriteLine(numberB);
 double result = numberA / numberB;
 Console.WriteLine(result);
