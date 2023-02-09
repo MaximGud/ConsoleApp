@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\bin\Debug\net6.0\Example004_Del.exe
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\bin\Debug\net6.0\Example004_Del.deps.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\bin\Debug\net6.0\Example004_Del.runtimeconfig.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\bin\Debug\net6.0\Example004_Del.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\bin\Debug\net6.0\Example004_Del.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\refint\Example004_Del.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\Example004_Del.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example004_Del\obj\Debug\net6.0\ref\Example004_Del.dll
