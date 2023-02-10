@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\bin\Debug\net6.0\Example006_Gir.exe
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\bin\Debug\net6.0\Example006_Gir.deps.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\bin\Debug\net6.0\Example006_Gir.runtimeconfig.json
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\bin\Debug\net6.0\Example006_Gir.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\bin\Debug\net6.0\Example006_Gir.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\refint\Example006_Gir.dll
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.pdb
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\Example006_Gir.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB\Знакомство с языками программирования C#\Лекция 1\ConsoleApp\Example006_Gir\obj\Debug\net6.0\ref\Example006_Gir.dll
